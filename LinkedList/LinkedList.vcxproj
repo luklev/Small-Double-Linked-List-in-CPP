@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="MyList.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyList.h" />
